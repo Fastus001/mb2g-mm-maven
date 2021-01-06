@@ -12,7 +12,7 @@
     <artifactId>converters</artifactId>
 
     <properties>
-        <org.mapstruct.version>1.4.1.Final</org.mapstruct.version>
+
     </properties>
 
     <dependencies>
@@ -30,7 +30,6 @@
         <dependency>
             <groupId>org.mapstruct</groupId>
             <artifactId>mapstruct</artifactId>
-            <version>${org.mapstruct.version}</version>
         </dependency>
     </dependencies>
 
